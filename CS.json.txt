@@ -1,8 +1,0 @@
-{
-  "name": "SANDU(Hungary & English)",
-  "description": "Hungary and English",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/kovacsalexandru77/Netflixsandu/refs/heads/main/plugins.json"
-  ]
-}
