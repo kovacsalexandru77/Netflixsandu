@@ -3,6 +3,6 @@
   "description": "created sandu",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/kovacsalexandru77/Netflixsandu/blob/main/plugins.json"
+    "https://raw.githubusercontent.com/kovacsalexandru77/Netflixsandu/refs/heads/main/plugins.json"
   ]
 }
