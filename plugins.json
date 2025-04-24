@@ -2,12 +2,11 @@
     {
         "iconUrl": "https://ia601901.us.archive.org/27/items/aaa_20250423/aaa.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kovacsalexandru77/Netflixsandu/tree/main/Netflixsandu",
+        "repositoryUrl": "https://github.com/kovacsalexandru77/Netflixsandu/tree/main/CSX-master",
         "fileSize": 36641,
         "status": 1,
         "authors": [
-            "Horis, megix",
-            "keyiflerolsun"
+            "sandu"
         ],
         "tvTypes": [
             "Movie",
